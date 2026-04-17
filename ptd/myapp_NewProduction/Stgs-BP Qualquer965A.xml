@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="IRIS" version="26">
+<Project name="Settings-BP Qualquer">
+  <Items>
+    <ProjectItem name="EnsExportNotes.Settings-BP Qualquer.PTD" type="PTD"></ProjectItem>
+    <ProjectItem name="Settings:BP Qualquer.PTD" type="PTD"></ProjectItem>
+  </Items>
+</Project>
+
+
+<Document name="EnsExportNotes.Settings-BP Qualquer.PTD"><ProjectTextDocument name="EnsExportNotes.Settings-BP Qualquer" description="Export Notes for export Settings-BP Qualquer">
+<![CDATA[<Deployment>
+<Creation>
+<SourceProduction>myapp.NewProduction</SourceProduction>
+<UTC>1841-01-01 00:00:00.000</UTC>
+</Creation>
+<Notes>
+</Notes>
+<Contents>
+<ExportProject>Settings-BP Qualquer</ExportProject>
+<Item num="1">Settings:BP Qualquer.PTD</Item>
+</Contents>
+<ProductionClassInExport></ProductionClassInExport>
+</Deployment>
+
+]]></ProjectTextDocument>
+</Document>
+
+<Document name="Settings:BP Qualquer.PTD"><ProjectTextDocument name="Settings:BP Qualquer" description="Settings for BP Qualquer in Production myapp.NewProduction">
+<![CDATA[<Item Name="BP Qualquer" Category="" ClassName="EnsLib.PrivateSession.Process" PoolSize="1" Enabled="true" Foreground="false" Comment="" LogTraceEvents="false" Schedule=""></Item>
+]]></ProjectTextDocument>
+</Document></Export>
