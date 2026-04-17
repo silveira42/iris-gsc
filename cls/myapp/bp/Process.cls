@@ -5,12 +5,16 @@ Method OnRequest(pRequest As Ens.Request, Output pResponse As Ens.Response) As %
 {
     Try
     {
-        /// Mudan?a no arquivo
+        /// Mudança no arquivo
         Write "gretwrjl"
 
-        $$$LOGINFO("Bbalbla")
+        $$$LOGINFO("tabtalbtal")
 
         /// Outra coisa
+
+        $$$LOGINFO("rgkjlglksg")
+
+        /// Blabla
     }
     Catch (exception)
     {
@@ -18,6 +22,11 @@ Method OnRequest(pRequest As Ens.Request, Output pResponse As Ens.Response) As %
     }
 
     Return $$$OK
+}
+
+Storage Default
+{
+<Type>%Storage.Persistent</Type>
 }
 
 }
