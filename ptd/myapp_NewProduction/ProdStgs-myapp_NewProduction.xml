@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="IRIS" version="26">
+<Project name="ProductionSettings-myapp_NewProduction">
+  <Items>
+    <ProjectItem name="EnsExportNotes.ProductionSettings-myapp_NewProduction.PTD" type="PTD"></ProjectItem>
+    <ProjectItem name="ProductionSettings:myapp.NewProduction.PTD" type="PTD"></ProjectItem>
+  </Items>
+</Project>
+
+
+<Document name="EnsExportNotes.ProductionSettings-myapp_NewProduction.PTD"><ProjectTextDocument name="EnsExportNotes.ProductionSettings-myapp_NewProduction" description="Export Notes for export ProductionSettings-myapp_NewProduction">
+<![CDATA[<Deployment>
+<Creation>
+<SourceProduction>myapp.NewProduction</SourceProduction>
+<UTC>1841-01-01 00:00:00.000</UTC>
+</Creation>
+<Notes>
+</Notes>
+<Contents>
+<ExportProject>ProductionSettings-myapp_NewProduction</ExportProject>
+<Item num="1">ProductionSettings:myapp.NewProduction.PTD</Item>
+</Contents>
+<ProductionClassInExport></ProductionClassInExport>
+</Deployment>
+
+]]></ProjectTextDocument>
+</Document>
+
+<Document name="ProductionSettings:myapp.NewProduction.PTD"><ProjectTextDocument name="ProductionSettings:myapp.NewProduction" description="Settings for production myapp.NewProduction">
+<![CDATA[<Production Name='myapp.NewProduction' LogGeneralTraceEvents='false'><Description/><ActorPoolSize>2</ActorPoolSize></Production>
+]]></ProjectTextDocument>
+</Document></Export>
