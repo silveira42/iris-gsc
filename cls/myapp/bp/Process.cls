@@ -5,7 +5,7 @@ Method OnRequest(pRequest As Ens.Request, Output pResponse As Ens.Response) As %
 {
     Try
     {
-        /// Mudança no arquivo
+        /// Mudan?a no arquivo
         Write "gretwrjl"
 
         $$$LOGINFO("tabtalbtal")
@@ -15,6 +15,14 @@ Method OnRequest(pRequest As Ens.Request, Output pResponse As Ens.Response) As %
         $$$LOGINFO("rgkjlglksg")
 
         /// Blabla
+
+        Write "balbla"
+
+        $$$LOGINFO("teste3")
+
+        /// fjsdlfgç
+
+        /// ADSJFkles
     }
     Catch (exception)
     {

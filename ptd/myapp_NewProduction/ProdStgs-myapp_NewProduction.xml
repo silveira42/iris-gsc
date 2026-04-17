@@ -27,6 +27,6 @@
 </Document>
 
 <Document name="ProductionSettings:myapp.NewProduction.PTD"><ProjectTextDocument name="ProductionSettings:myapp.NewProduction" description="Settings for production myapp.NewProduction">
-<![CDATA[<Production Name='myapp.NewProduction' LogGeneralTraceEvents='false'><Description/><ActorPoolSize>2</ActorPoolSize></Production>
+<![CDATA[<Production Name='myapp.NewProduction' TestingEnabled='true' LogGeneralTraceEvents='false'><Description/><ActorPoolSize>2</ActorPoolSize></Production>
 ]]></ProjectTextDocument>
 </Document></Export>

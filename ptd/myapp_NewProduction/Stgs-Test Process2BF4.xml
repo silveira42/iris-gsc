@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="IRIS" version="26">
+<Project name="Settings-Test Process">
+  <Items>
+    <ProjectItem name="EnsExportNotes.Settings-Test Process.PTD" type="PTD"></ProjectItem>
+    <ProjectItem name="Settings:Test Process.PTD" type="PTD"></ProjectItem>
+  </Items>
+</Project>
+
+
+<Document name="EnsExportNotes.Settings-Test Process.PTD"><ProjectTextDocument name="EnsExportNotes.Settings-Test Process" description="Export Notes for export Settings-Test Process">
+<![CDATA[<Deployment>
+<Creation>
+<SourceProduction>myapp.NewProduction</SourceProduction>
+<UTC>1841-01-01 00:00:00.000</UTC>
+</Creation>
+<Notes>
+</Notes>
+<Contents>
+<ExportProject>Settings-Test Process</ExportProject>
+<Item num="1">Settings:Test Process.PTD</Item>
+</Contents>
+<ProductionClassInExport></ProductionClassInExport>
+</Deployment>
+
+]]></ProjectTextDocument>
+</Document>
+
+<Document name="Settings:Test Process.PTD"><ProjectTextDocument name="Settings:Test Process" description="Settings for Test Process in Production myapp.NewProduction">
+<![CDATA[<Item Name="Test Process" Category="" ClassName="myapp.bp.Process" PoolSize="1" Enabled="true" Foreground="false" Comment="" LogTraceEvents="false" Schedule=""></Item>
+]]></ProjectTextDocument>
+</Document></Export>
