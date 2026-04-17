@@ -27,6 +27,6 @@
 </Document>
 
 <Document name="Settings:Kafka.PTD"><ProjectTextDocument name="Settings:Kafka" description="Settings for Kafka in Production myapp.NewProduction">
-<![CDATA[<Item Name="Kafka" Category="" ClassName="EnsLib.Kafka.Operation" PoolSize="1" Enabled="true" Foreground="false" Comment="BO que comunica com Kafka" LogTraceEvents="false" Schedule=""></Item>
+<![CDATA[<Item Name="Kafka" Category="" ClassName="EnsLib.Kafka.Operation" PoolSize="1" Enabled="true" Foreground="false" Comment="sdfsdasfd" LogTraceEvents="false" Schedule=""></Item>
 ]]></ProjectTextDocument>
 </Document></Export>
