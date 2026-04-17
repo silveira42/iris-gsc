@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="IRIS" version="26">
+<Project name="Settings-Alert">
+  <Items>
+    <ProjectItem name="EnsExportNotes.Settings-Alert.PTD" type="PTD"></ProjectItem>
+    <ProjectItem name="Settings:Alert.PTD" type="PTD"></ProjectItem>
+  </Items>
+</Project>
+
+
+<Document name="EnsExportNotes.Settings-Alert.PTD"><ProjectTextDocument name="EnsExportNotes.Settings-Alert" description="Export Notes for export Settings-Alert">
+<![CDATA[<Deployment>
+<Creation>
+<SourceProduction>myapp.NewProduction</SourceProduction>
+<UTC>1841-01-01 00:00:00.000</UTC>
+</Creation>
+<Notes>
+</Notes>
+<Contents>
+<ExportProject>Settings-Alert</ExportProject>
+<Item num="1">Settings:Alert.PTD</Item>
+</Contents>
+<ProductionClassInExport></ProductionClassInExport>
+</Deployment>
+
+]]></ProjectTextDocument>
+</Document>
+
+<Document name="Settings:Alert.PTD"><ProjectTextDocument name="Settings:Alert" description="Settings for Alert in Production myapp.NewProduction">
+<![CDATA[<Item Name="Alert" Category="" ClassName="Ens.Alerting.AlertManager" PoolSize="1" Enabled="true" Foreground="false" Comment="" LogTraceEvents="false" Schedule=""></Item>
+]]></ProjectTextDocument>
+</Document></Export>

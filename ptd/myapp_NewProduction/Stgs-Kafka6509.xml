@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="IRIS" version="26">
+<Project name="Settings-Kafka">
+  <Items>
+    <ProjectItem name="EnsExportNotes.Settings-Kafka.PTD" type="PTD"></ProjectItem>
+    <ProjectItem name="Settings:Kafka.PTD" type="PTD"></ProjectItem>
+  </Items>
+</Project>
+
+
+<Document name="EnsExportNotes.Settings-Kafka.PTD"><ProjectTextDocument name="EnsExportNotes.Settings-Kafka" description="Export Notes for export Settings-Kafka">
+<![CDATA[<Deployment>
+<Creation>
+<SourceProduction>myapp.NewProduction</SourceProduction>
+<UTC>1841-01-01 00:00:00.000</UTC>
+</Creation>
+<Notes>
+</Notes>
+<Contents>
+<ExportProject>Settings-Kafka</ExportProject>
+<Item num="1">Settings:Kafka.PTD</Item>
+</Contents>
+<ProductionClassInExport></ProductionClassInExport>
+</Deployment>
+
+]]></ProjectTextDocument>
+</Document>
+
+<Document name="Settings:Kafka.PTD"><ProjectTextDocument name="Settings:Kafka" description="Settings for Kafka in Production myapp.NewProduction">
+<![CDATA[<Item Name="Kafka" Category="" ClassName="EnsLib.Kafka.Operation" PoolSize="1" Enabled="true" Foreground="false" Comment="" LogTraceEvents="false" Schedule=""></Item>
+]]></ProjectTextDocument>
+</Document></Export>

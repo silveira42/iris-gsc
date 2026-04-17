@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="IRIS" version="26">
+<Project name="Settings-HtTTP">
+  <Items>
+    <ProjectItem name="EnsExportNotes.Settings-HtTTP.PTD" type="PTD"></ProjectItem>
+    <ProjectItem name="Settings:HtTTP.PTD" type="PTD"></ProjectItem>
+  </Items>
+</Project>
+
+
+<Document name="EnsExportNotes.Settings-HtTTP.PTD"><ProjectTextDocument name="EnsExportNotes.Settings-HtTTP" description="Export Notes for export Settings-HtTTP">
+<![CDATA[<Deployment>
+<Creation>
+<SourceProduction>myapp.NewProduction</SourceProduction>
+<UTC>1841-01-01 00:00:00.000</UTC>
+</Creation>
+<Notes>
+</Notes>
+<Contents>
+<ExportProject>Settings-HtTTP</ExportProject>
+<Item num="1">Settings:HtTTP.PTD</Item>
+</Contents>
+<ProductionClassInExport></ProductionClassInExport>
+</Deployment>
+
+]]></ProjectTextDocument>
+</Document>
+
+<Document name="Settings:HtTTP.PTD"><ProjectTextDocument name="Settings:HtTTP" description="Settings for HtTTP in Production myapp.NewProduction">
+<![CDATA[<Item Name="HtTTP" Category="" ClassName="EnsLib.HTTP.Service" PoolSize="1" Enabled="true" Foreground="false" Comment="" LogTraceEvents="false" Schedule=""></Item>
+]]></ProjectTextDocument>
+</Document></Export>
